@@ -6,7 +6,7 @@
 # catalog-version 1.00a
 Name:		texlive-counttexruns
 Version:	1.00a
-Release:	9
+Release:	10
 Summary:	Count compilations of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/counttexruns
