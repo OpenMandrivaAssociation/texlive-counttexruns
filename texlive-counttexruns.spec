@@ -1,6 +1,6 @@
 Name:		texlive-counttexruns
 Version:	27576
-Release:	1
+Release:	2
 Summary:	Count compilations of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/counttexruns
