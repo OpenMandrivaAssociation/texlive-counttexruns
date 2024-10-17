@@ -3,7 +3,7 @@ Version:	27576
 Release:	2
 Summary:	Count compilations of a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/counttexruns
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/counttexruns
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/counttexruns.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/counttexruns.doc.r%{version}.tar.xz
